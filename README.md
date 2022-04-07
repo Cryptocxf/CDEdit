@@ -1,6 +1,8 @@
 # CDEdit: A Highly Applicable Redactable Blockchain with Controllable Editing Privilege and Diversified Editing Types
 We use python and the charm framework to implement a highly applicable redactable blockchain (CDEdit), which has controlled editing privileges and supports multi-edit types.
 
+***If you need the source code, please contact me***(cryptocxf@buaa.edu.cn)
+
 # Development environment setup for manual configuration
 ### install dependencies
 
