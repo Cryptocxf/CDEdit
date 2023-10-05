@@ -1,10 +1,13 @@
-# ~~CDEdit: A Highly Applicable Redactable Blockchain with Controllable Editing Privilege and Diversified Editing Types~~
 # CDEdit: Redactable Blockchain with Cross-audit and Diversity Editing
 ### （**This paper accepted by *2022 IEEE International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom)*, [please click](https://ieeexplore.ieee.org/document/10063601) on the final submission version**)
 
 We use python and the charm framework to implement a highly applicable redactable blockchain (CDEdit), which has controlled editing privileges and supports multi-edit types.
 
 ***If you need the source code, please contact me***(cryptocxf@buaa.edu.cn)
+# Note
+Since the previous experiment was done in a virtual machine (Ubuntu system), but now it can no longer be opened, tried various methods or not. The only thing I can do now is to back up the source code from the middle of the experiment.
+   
+Note: Before the paper name is still called "*FitsMe*", but later changed to "*CDEdit*", the code content can be understood by synonymous replacement, does not affect the compilation.
 
 # Development environment setup for manual configuration
 ### install dependencies
